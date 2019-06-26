@@ -1,4 +1,4 @@
 # basic back_testing environment setup with python package and bundles
 #
 # dependencies :
-# zipline (strategy testing), tushare (get_share_price)
+# zipline (strategy simulator), tushare (get_share_price)
